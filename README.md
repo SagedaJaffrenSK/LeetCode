@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
+| [2556-convert-the-temperature](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3462-vowels-game-in-a-string](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
