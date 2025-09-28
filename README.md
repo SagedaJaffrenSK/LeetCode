@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
 | [2556-convert-the-temperature](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
