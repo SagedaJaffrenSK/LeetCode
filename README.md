@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
+| [1610-xor-operation-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2556-convert-the-temperature](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3462-vowels-game-in-a-string](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
