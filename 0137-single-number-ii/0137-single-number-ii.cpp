@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        map<int, int>freq;
+        for(int i=0; i<nums.size(); i++){
+            freq[nums[i]]++;
+        }
+        for(auto &num: freq){
+            if(num.second==1){
+                return num.first;
+            }
+        }
+        return 0;
+    }
+};
