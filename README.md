@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
 | [1603-running-sum-of-1d-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0260-single-number-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
