@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
 | [1610-xor-operation-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2556-convert-the-temperature](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3462-vowels-game-in-a-string](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3462-vowels-game-in-a-string) |
