@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
