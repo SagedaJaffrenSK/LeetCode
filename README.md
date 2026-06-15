@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0509-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2556-convert-the-temperature](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
