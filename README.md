@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0509-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3462-vowels-game-in-a-string](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
