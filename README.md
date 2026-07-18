@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2460-apply-operations-to-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2460-apply-operations-to-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Interactive
 |  |
 | ------- |
