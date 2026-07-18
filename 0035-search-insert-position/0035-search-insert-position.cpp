@@ -4,13 +4,10 @@ public:
         int n=nums.size();
         int low=0;
         int high=n-1;
-        bool flag=0;
         while(low<=high){
             int mid = low + (high-low) /2;
             if(nums[mid]==target){
                 return mid;
-                flag=1;
-                break;
             }
             else if(target>nums[mid]){
                 low = mid+1;
