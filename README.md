@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
