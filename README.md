@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0342-power-of-four) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0260-single-number-iii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2460-apply-operations-to-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2460-apply-operations-to-an-array) |
