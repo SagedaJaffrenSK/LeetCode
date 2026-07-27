@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
 | ------- |
