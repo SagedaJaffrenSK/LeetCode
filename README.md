@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1603-running-sum-of-1d-array) |
