@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3462-vowels-game-in-a-string](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
