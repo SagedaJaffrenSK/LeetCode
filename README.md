@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
