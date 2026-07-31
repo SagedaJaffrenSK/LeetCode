@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0412-fizz-buzz) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0476-number-complement) |
