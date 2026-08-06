@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0268-missing-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SagedaJaffrenSK/LeetCode/tree/master/0283-move-zeroes) |
